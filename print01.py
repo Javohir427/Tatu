@@ -1,1 +1,1 @@
-print('aaaa')
+print('  )\n ( \n[_]')
